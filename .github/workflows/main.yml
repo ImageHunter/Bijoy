@@ -1,0 +1,8 @@
+image-hunter-website/
+├── index.html          # Main homepage
+├── style.css          # Styling
+├── script.js          # Interactive elements
+├── assets/
+│   ├── logo.png       # Your company logo
+│   ├── hero-bg.jpg    # Hero section background
+│   └── portfolio/     # Sample portfolio images
